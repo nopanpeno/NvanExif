@@ -1,4 +1,4 @@
-# ExifMetadata
+# NvanExif
 
 Alat web statis untuk melihat metadata EXIF foto, memilih bagian yang mau dibuang, lalu mengunduh foto bersih. Semua proses jalan di browser. Foto tidak pernah diunggah ke server.
 
